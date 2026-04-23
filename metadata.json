@@ -1,0 +1,13 @@
+{
+  "name": "MindGuard AI",
+  "description": "An AI-powered early detection system for student mental health risks using facial analysis, behavioral tracking, and NLP.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "AI-powered emotion detection",
+    "Real-time student risk monitoring",
+    "NLP sentiment analysis",
+    "Automated alerting system"
+  ]
+}
